@@ -1,0 +1,32 @@
+@charset "UTF-8";
+
+body{
+    background-color: rgb(205, 255, 203) ;
+    font: normal 1em arial, helvetica, sans-serif;
+}
+
+main{
+    background-color: white;
+    border-radius: 10px;
+    width: 600px;
+    padding: 10px;
+    margin: auto;
+}
+
+h1{
+    color: rgb(4, 109, 0);
+}
+
+h2{
+    color: rgb(51, 77, 49);
+}
+
+h1#principal{
+    background-color: green;
+    color: white;
+    text-align: center;
+}
+p{
+    text-align: justify;
+    text-indent: 30px;
+}
